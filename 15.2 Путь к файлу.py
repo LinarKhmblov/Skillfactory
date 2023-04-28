@@ -1,0 +1,1 @@
+# myFile = open(r'C:\Users\Vova\QAR\test\filename.txt', 'rt', encoding="utf8") - пример абсолютного пути к файлу
